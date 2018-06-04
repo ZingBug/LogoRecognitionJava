@@ -39,7 +39,7 @@ public class Main {
 
         String path="F:\\GitHub\\LogoRecognitionJava\\LogoRecognition\\bentian1.jpg";
         Mat image=Imgcodecs.imread(path);
-        int flag=1;
+        int flag=0;
 
         Recognition recognition=new Recognition();
         if(flag==0)

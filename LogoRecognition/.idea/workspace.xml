@@ -12,11 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="46" column="38" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+            <state relative-caret-position="819">
+              <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -24,13 +24,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Recognition.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Recognition.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Recognition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2121">
-              <caret line="114" column="39" selection-start-line="114" selection-start-column="39" selection-end-line="114" selection-end-column="39" />
+            <state relative-caret-position="252">
+              <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="method#packTrainData#0;class#Recognition#0" />
+                <element signature="method#loadTrainData#0;class#Recognition#0" />
+                <element signature="method#trainData#0;class#Recognition#0" />
                 <element signature="method#init#0;class#Recognition#0" />
               </folding>
             </state>
@@ -64,7 +66,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2232" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -74,8 +76,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -103,7 +105,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../NystagmusJava/NystagmusJava" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../CodeExercise/CodeExercise" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -210,15 +212,17 @@
       <workItem from="1526716462898" duration="3195000" />
       <workItem from="1526891516870" duration="75000" />
       <workItem from="1527168082507" duration="1047000" />
-      <workItem from="1527235367773" duration="284000" />
+      <workItem from="1527235367773" duration="795000" />
+      <workItem from="1527598486324" duration="3958000" />
+      <workItem from="1527666742250" duration="11000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42969000" />
+    <option name="totallyTimeSpent" value="47449000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -260,7 +264,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="18" />
+      <option name="time" value="19" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -307,6 +311,52 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Recognition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding>
+            <element signature="method#packTrainData#0;class#Recognition#0" />
+            <element signature="method#loadTrainData#0;class#Recognition#0" />
+            <element signature="method#trainData#0;class#Recognition#0" />
+            <element signature="method#init#0;class#Recognition#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="41" column="19" lean-forward="true" selection-start-line="41" selection-start-column="19" selection-end-line="41" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Recognition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2121">
+          <caret line="114" column="39" selection-start-line="114" selection-start-column="39" selection-end-line="114" selection-end-column="39" />
+          <folding>
+            <element signature="method#packTrainData#0;class#Recognition#0" />
+            <element signature="method#loadTrainData#0;class#Recognition#0" />
+            <element signature="method#trainData#0;class#Recognition#0" />
+            <element signature="method#init#0;class#Recognition#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1092">
           <caret line="52" column="12" lean-forward="true" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="12" />
           <folding>
@@ -320,7 +370,9 @@
         <state relative-caret-position="2394">
           <caret line="114" column="39" lean-forward="true" selection-start-line="114" selection-start-column="39" selection-end-line="114" selection-end-column="39" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#packTrainData#0;class#Recognition#0" />
+            <element signature="method#loadTrainData#0;class#Recognition#0" />
+            <element signature="method#trainData#0;class#Recognition#0" />
             <element signature="method#init#0;class#Recognition#0" />
           </folding>
         </state>
@@ -341,7 +393,9 @@
         <state relative-caret-position="3150">
           <caret line="150" column="5" lean-forward="true" selection-start-line="150" selection-start-column="5" selection-end-line="150" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#packTrainData#0;class#Recognition#0" />
+            <element signature="method#loadTrainData#0;class#Recognition#0" />
+            <element signature="method#trainData#0;class#Recognition#0" />
             <element signature="method#init#0;class#Recognition#0" />
           </folding>
         </state>
@@ -362,7 +416,9 @@
         <state relative-caret-position="3171">
           <caret line="151" column="32" selection-start-line="151" selection-start-column="28" selection-end-line="151" selection-end-column="32" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#packTrainData#0;class#Recognition#0" />
+            <element signature="method#loadTrainData#0;class#Recognition#0" />
+            <element signature="method#trainData#0;class#Recognition#0" />
             <element signature="method#init#0;class#Recognition#0" />
           </folding>
         </state>
@@ -383,7 +439,9 @@
         <state relative-caret-position="987">
           <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#packTrainData#0;class#Recognition#0" />
+            <element signature="method#loadTrainData#0;class#Recognition#0" />
+            <element signature="method#trainData#0;class#Recognition#0" />
             <element signature="method#init#0;class#Recognition#0" />
           </folding>
         </state>
@@ -433,7 +491,9 @@
         <state relative-caret-position="2226">
           <caret line="106" column="29" selection-start-line="106" selection-start-column="29" selection-end-line="106" selection-end-column="29" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#packTrainData#0;class#Recognition#0" />
+            <element signature="method#loadTrainData#0;class#Recognition#0" />
+            <element signature="method#trainData#0;class#Recognition#0" />
             <element signature="method#init#0;class#Recognition#0" />
           </folding>
         </state>
@@ -461,7 +521,9 @@
         <state relative-caret-position="2226">
           <caret line="106" column="29" selection-start-line="106" selection-start-column="29" selection-end-line="106" selection-end-column="29" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#packTrainData#0;class#Recognition#0" />
+            <element signature="method#loadTrainData#0;class#Recognition#0" />
+            <element signature="method#trainData#0;class#Recognition#0" />
             <element signature="method#init#0;class#Recognition#0" />
           </folding>
         </state>
@@ -497,7 +559,9 @@
         <state relative-caret-position="1596">
           <caret line="109" column="41" lean-forward="true" selection-start-line="109" selection-start-column="41" selection-end-line="109" selection-end-column="41" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#packTrainData#0;class#Recognition#0" />
+            <element signature="method#loadTrainData#0;class#Recognition#0" />
+            <element signature="method#trainData#0;class#Recognition#0" />
             <element signature="method#init#0;class#Recognition#0" />
           </folding>
         </state>
@@ -609,23 +673,25 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SiftTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/Recognition.java">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2121">
-          <caret line="114" column="39" selection-start-line="114" selection-start-column="39" selection-end-line="114" selection-end-column="39" />
+        <state relative-caret-position="819">
+          <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#init#0;class#Recognition#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Recognition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="46" column="38" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
+        <state relative-caret-position="252">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="method#packTrainData#0;class#Recognition#0" />
+            <element signature="method#loadTrainData#0;class#Recognition#0" />
+            <element signature="method#trainData#0;class#Recognition#0" />
+            <element signature="method#init#0;class#Recognition#0" />
           </folding>
         </state>
       </provider>
